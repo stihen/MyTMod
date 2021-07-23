@@ -1,0 +1,19 @@
+MyTMod is a mod for Terraria. As of now it's just a hobby project intended for personal use only.
+
+Adds the following items to the game:
+
+Melee Weapons:
+	- Radiant Sword
+
+Magic Weapons
+	- Wind Tome
+	- Wind Storm
+	- Solar Rain (TODO)
+
+Accessories
+	- Beetle Shield
+	- Beetle Aegis (Thorium)
+
+
+Future:
+- I'll probably add more items in the future as I've got some ideas.
